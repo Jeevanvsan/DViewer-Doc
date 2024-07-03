@@ -1,0 +1,50 @@
+site_name: DViewer-Documentation
+theme:
+  name: material
+  features:
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: black
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: white
+      accent: lime
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/Jeevanvsan/DViewer-Doc
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/jeevan-varghese-1a5237214/
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/Jeevanvsan/DViewer-Doc"  target="_blank" rel="noopener">DViewer</a>
