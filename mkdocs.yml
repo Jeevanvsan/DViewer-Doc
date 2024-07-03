@@ -28,6 +28,19 @@ theme:
 extra_css:
   - css/extra.css
 
+nav:
+
+  - Introduction: index.md
+  - Quick Start: quick.md
+  - Installation: install.md
+  - Add connection: add_connection.md
+  - Data View: data_view.md
+  - Worksheet: worksheet.md
+  - Structure: structure.md
+  - Settings: settings.md
+  - About: about.md
+  - FAQ: faq.md
+
 extra:
   social:
     - icon: fontawesome/brands/github-alt
