@@ -1,6 +1,8 @@
 site_name: DViewer-Documentation
 theme:
   name: material
+  logo: img/logo.png
+  favicon: img/logo.png
   features:
     - toc.integrate
     - navigation.top
@@ -23,6 +25,8 @@ theme:
         name: Switch to light mode    
       primary: white
       accent: lime
+extra_css:
+  - css/extra.css
 
 extra:
   social:
@@ -30,6 +34,8 @@ extra:
       link: https://github.com/Jeevanvsan/DViewer-Doc
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/jeevan-varghese-1a5237214/
+  generator: false
+
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -44,6 +50,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+  - md_in_html
 
 
 copyright: |
