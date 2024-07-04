@@ -14,18 +14,18 @@
 
 ## **Functionalities**
 
-### **1. Data view**
+### **[1. Data view](data_view.md)**
    - Can view data in tables.
    - Can sort columns.
    - Can filter values.
    - Can search data.
 
-### **2. Worksheet**
+### **[2. Worksheet](worksheet.md)**
    -  Query editor for running SQL queries to view.
    -  Can run queries across multiple sources.
    -  Can join multiple tables from multiple sources.
    -  Can save result table as xlsx format.
 
-### **3. Structure**
+### **[3. Structure](structure.md)**
    -  Can view table / file structure.
 
