@@ -3,7 +3,7 @@
 *Can query and analyze data from various sources using SQL.*
 
 <figure markdown="span">
-  ![Image title](/img/wrksheet.png){ width="1000" }
+  ![Image title](../img/wrksheet.png){ width="1000" }
   <figcaption>Worksheet tab</figcaption>
 </figure>
 

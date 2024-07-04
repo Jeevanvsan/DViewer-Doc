@@ -3,7 +3,7 @@
 Data can be view in table view from any sources.
 
 <figure markdown="span">
-  ![Image title](../../img/dataview.png){ width="1000" }
+  ![Image title](../img/dataview.png){ width="1000" }
   <figcaption>Data tab</figcaption>
 </figure>
 
