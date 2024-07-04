@@ -2,6 +2,11 @@
 
 *Can query and analyze data from various sources using SQL.*
 
+<figure markdown="span">
+  ![Image title](/img/wrksheet.png){ width="1000" }
+  <figcaption>Worksheet tab</figcaption>
+</figure>
+
 ## **Query**
 
 To query data from various sources using SQL, follow these steps:
@@ -18,7 +23,6 @@ To query data from various sources using SQL, follow these steps:
 To add a join in a query, follow these steps:
 
 1. Click on the **Add join** button on the top right corner of the editor.
-
 2. Select **connection** and **file/table name** from the dropdown menu.
 
 Download result table as xlsx file.
